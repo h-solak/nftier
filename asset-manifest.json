@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/nftier/static/css/main.8863c493.css",
+    "main.js": "/nftier/static/js/main.63afec5c.js",
+    "static/media/creativity2.svg": "/nftier/static/media/creativity2.b0169ff2c5977c1ceecfae3c4d5cf649.svg",
+    "index.html": "/nftier/index.html",
+    "main.8863c493.css.map": "/nftier/static/css/main.8863c493.css.map",
+    "main.63afec5c.js.map": "/nftier/static/js/main.63afec5c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8863c493.css",
+    "static/js/main.63afec5c.js"
+  ]
+}
